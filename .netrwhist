@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/JudeLuo/Hello'
+let g:netrw_dirhist_2='/Users/JudeLuo/.vim'
+let g:netrw_dirhist_3='/Users/JudeLuo/w3schools/HTML/images'
