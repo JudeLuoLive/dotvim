@@ -12,3 +12,6 @@ command Status echo "All systems are go!"
 
 "enable vim-airline
 set laststatus=2
+
+
+
